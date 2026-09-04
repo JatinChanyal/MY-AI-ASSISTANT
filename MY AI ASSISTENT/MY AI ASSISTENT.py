@@ -137,7 +137,7 @@ elif 'play and search' in fun:
 elif 'open vs code' in fun:
     g = "thank you,for your confirmation , now i am goining to open your vs code"
     voice(g)
-    path = "C:/Users/hp/AppData/Local/Programs/Microsoft VS Code/Code.exe"
+    path = "C:/Users/LOQ/AppData/Local/Programs/Microsoft VS Code/Code.exe"
     os.startfile(path)
 
 elif 'open pycharm' in fun:
@@ -173,7 +173,7 @@ elif 'open notepad' in fun:
 elif 'open python' in fun:
     g = "thank you,for your confirmation , now i am goining to open your python IDE"
     voice(g)
-    path = "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.9\\IDLE (Python 3.9 64-bit).lnk"
+    path = "C:\\Users\\LOQ\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.9\\IDLE (Python 3.9 64-bit).lnk"
     os.startfile(path)
 
 elif 'open any disc' in fun:
@@ -192,7 +192,7 @@ elif 'open java' in fun:
 elif 'command line' in fun:
     g = "thank you,for your confirmation , now i am goining to open command line"
     voice(g)
-    path = "C:\\Users\\HP\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk"
+    path = "C:\\Users\\LOQ\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk"
     os.startfile(path)
 
 # todo send whatsaap msg
