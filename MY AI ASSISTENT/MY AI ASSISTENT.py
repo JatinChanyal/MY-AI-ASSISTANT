@@ -213,6 +213,7 @@ elif 'whatsapp' in fun:
         voice("thank you,for your confirmation , now i am rejected your command")
 
 # todo search in wikipedia
+
 elif 'wikipedia' in fun:
     voice("Searching Wikipidea......")
     cmd = speek()
