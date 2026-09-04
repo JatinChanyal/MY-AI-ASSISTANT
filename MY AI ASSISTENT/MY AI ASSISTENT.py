@@ -24,11 +24,11 @@ def voice(v):
 def wish():
     h=int(d.datetime.now().hour)
     if h>=0 and h<12:
-        voice("Good Morning Prince Singh,i am your Assistant,how can i help you")
+        voice("Good Morning Jatin Chanyal,i am your Assistant,how can i help you")
     elif h>=12 and h<18:
-        voice("Good after noon Prince Singh,i am your Assistant,how can i help you")
+        voice("Good after noon Jatin Chanyal,i am your Assistant,how can i help you")
     else:
-        voice("Good evining Prince Singh,i am your Assistant,how can i help you")
+        voice("Good evining Jatin Chanyal,i am your Assistant,how can i help you")
 
 wish()
 
