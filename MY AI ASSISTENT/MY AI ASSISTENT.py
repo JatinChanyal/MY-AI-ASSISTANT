@@ -214,6 +214,7 @@ elif 'whatsapp' in fun:
 
 # todo search in wikipedia
 
+
 elif 'wikipedia' in fun:
     voice("Searching Wikipidea......")
     cmd = speek()
