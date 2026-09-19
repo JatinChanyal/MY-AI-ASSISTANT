@@ -3,5 +3,4 @@ AI ASSISTANT made in Python this Project inspired by Alexa this project is able 
 
 
 ## Video of this project
-https://user-images.githubusercontent.com/71000042/183768306-3845fa6e-099e-42d3-8d2f-36e46
-
+https://user-images.githubusercontent.com/71000042/183
